@@ -1,0 +1,9 @@
+site_name: SOSTENIBILIDAD
+
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details     # Opcional: permite cajas desplegables (??? note)
+  - pymdownx.superfences # Recomendado para compatibilidad
