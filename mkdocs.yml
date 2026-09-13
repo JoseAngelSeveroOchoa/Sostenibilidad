@@ -3,6 +3,11 @@ site_url: https://JoseAngelSeveroOchoa.github.io/Sostenibilidad/
 
 theme:
   name: material
+  language: es
+
+nav:
+  - Inicio: index.md
+  - Presentación Módulo: SOS_presentacion.md
 
 markdown_extensions:
   - admonition
