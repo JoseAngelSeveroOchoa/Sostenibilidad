@@ -7,7 +7,7 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Presentación Módulo: SOS_Presentacion.md
+  - UD01: UD01.md
 
 markdown_extensions:
   - admonition
