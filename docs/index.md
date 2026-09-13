@@ -99,6 +99,9 @@ En la informática y los sistemas microinformáticos (SMR), la sostenibilidad se
 
 Los **ODS** son **17 objetivos globales** adoptados por las Naciones Unidas en 2015 con el propósito de erradicar la pobreza, proteger el planeta y garantizar un futuro sostenible para todas las personas de cara al año 2030.
 
+![Esquema de la arquitectura](img/ods.jpg)
+*Figura 1: ODS adoptados por las Naciones Unidas.*
+
 ---
 
 ## 7. Dinámica de Calentamiento y Debate
