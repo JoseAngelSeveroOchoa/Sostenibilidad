@@ -1,6 +1,1 @@
-# Inicio
-
----
-
-*Prueba 1.
-Así se ve.
+# SOSTENIBILIDAD APLICADA AL SISTEMA PRODUCTIVO
