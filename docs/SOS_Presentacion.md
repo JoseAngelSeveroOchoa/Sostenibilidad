@@ -1,4 +1,4 @@
-# **Sostenibilidad Aplicada al Sistema Productivo**
+# Sostenibilidad Aplicada al Sistema Productivo
 
 ---
 
